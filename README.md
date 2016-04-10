@@ -23,4 +23,8 @@ Video presentation of Foodi: https://youtu.be/cIsEwTZGv7s
 
 Team photo:
 ![alt tag](https://github.com/dimcey/foodie/blob/master/Team_Img.JPG)
+Dimitar Minovski & Niklas Kolbe - web developers
+Victoria Silva & Ville Myllynpää- social media and communication
+Pouyan Mohseninia - designer
+
 
