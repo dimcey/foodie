@@ -12,3 +12,11 @@ Web interface:
 
 # Nasa space apps challenge
 The International Space Apps Challenge is a two-day hackathon where teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students across the globe collaborate and engage with publicly available data to design innovative solutions for global challenges.
+
+More information about NASA space apps challenge: https://2015.spaceappschallenge.org/
+More information about Food Directions challenge in 2015: https://2015.spaceappschallenge.org/challenge/food-directions/
+More information about Foodi project: https://2015.spaceappschallenge.org/project/foodi/
+Video presentation of Foodi: https://youtu.be/cIsEwTZGv7s
+Team photo:
+![alt tag](https://github.com/dimcey/foodie/blob/master/Team_Img.JPG)
+
